@@ -1,8 +1,9 @@
-Basic calculator code in c panguage
+<h1>Basic calculator code in c panguage
 #include <stdio.h>
-
 int main() {
-    char op;    
+    
+    char op;  
+    
     float num1, num2, result; 
     
     printf("Enter first number x : ");
@@ -49,4 +50,4 @@ int main() {
     }
     
     return 0; 
-}
+}</h1>
